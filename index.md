@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/GYH-BUPT/gyh-bupt.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](/photo.jpg)
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Image](photo.jpg)
 
 ### Markdown
 
