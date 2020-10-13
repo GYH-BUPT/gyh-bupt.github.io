@@ -25,7 +25,7 @@
 > 10、基于异构数据挖掘的威胁分析及攻击发现技术研究
 
 ###校园网入侵检测可视化展示平台
-![Figure](校园网入侵检测可视化展示平台.png)
+![Figure](platform.jpg)
 
 ## Publications
 
