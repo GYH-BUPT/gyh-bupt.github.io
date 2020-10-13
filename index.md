@@ -24,7 +24,17 @@
 >
 > 10、基于异构数据挖掘的威胁分析及攻击发现技术研究
 
+
 ## Publications
 
-1. lunwen.
-2. paper.
+* Yonghao Gu, Kaiyue Li, Zhenyang Guo, Yongfei Wang. Semi-supervised K-means DDoS Detection Method Using Hybrid Feature Selection Algorithm. IEEE ACCESS, vol. 7, pp. 64351-64365, 2019. 
+* Yonghao Gu, Yongfei Wang, Zhen Yang and Yimu Gao. A Distributed Privacy-Utility Tradeoff Method Using Distributed Lossy Source Coding with Side Information. KSII Transactions on Internet and Information Systems, vol. 11, no. 5, pp. 2778-2791, 2017.
+* Yonghao Gu, Yongfei Wang, Zhen Yang, Fei Xiong, and Yimu Gao, “Multiple-Features-Based Semisupervised Clustering DDoS Detection Method,” Mathematical Problems in Engineering, vol. 2017, Article ID 5202836, 10 pages, 2017.
+*	Gu, Yong-Hao; Guo, Da; Lin, Jiu-Chuan. Energy-saving privacy data secure aggregation method. Journal on Communications. 2014, 35(Z2) : 112-116.
+* Yonghao, Gu; Weiming, Wu. A Light-weight Mutual Authentication Protocol for ISO18000-6B Standard RFID System. 2009 IEEE International Conference on Communications Technology and Applications (IEEE ICCTA2009), Beijing, China. October 16-18, 2009. pp : 21-25.
+* Gu Yonghao, Wu Weiming. Mutual Authentication Protocol based on Tag ID Number Updating for Low-cost RFID. 2009 IEEE International Conference on Network Infrastructure and Digital Content (IEEE IC-NIDC 2009), Beijing, China. November 6-8, 2009. pp: 548-551.
+* Gu Yonghao, Wu Weiming. DDoS detection and prevention based on joint entropy and conditional entropy. Key Engineering Materials Vols. 474-476 (2011) pp: 2129-2133.
+* Gu Yonghao. A Quantifying Method for Trade-off between Privacy and Utility. IET International Conference on Information and Communications Technologies. Apr. 27-29, 2013. pp:270-273.
+* Gu Yong-hao. An Automatically Privacy Setting Algorithm based on Rasch Model. The Journal of China Universities of Posts and Telecommunications. 2013, 20(S2) : 17-20.
+* 谷勇浩,林九川.基于多变量信源编码的隐私效用均衡方法.通信学报,2015,36(12):172-177.
+* 谷勇浩,林九川,郭 达.基于聚类的动态社交网络隐私保护方法.通信学报,2015,36(Z1):126-130.
