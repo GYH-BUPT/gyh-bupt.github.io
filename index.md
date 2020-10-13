@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/GYH-BUPT/gyh-bupt.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Image](https://github.com/GYH-BUPT/gyh-bupt.github.io/blob/main/1.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
-![Photo](https://github.com/GYH-BUPT/gyh-bupt.github.io/blob/main/1.png)
 
 # 个人信息
 ## Header 2
