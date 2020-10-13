@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![Photo](gyh-bupt.github.io/1.png)
+![Photo](https://github.com/GYH-BUPT/gyh-bupt.github.io/blob/main/1.png)
+
 # 个人信息
 ## Header 2
 ### Header 3
