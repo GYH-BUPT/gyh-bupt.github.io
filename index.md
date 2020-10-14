@@ -30,6 +30,7 @@
 
 ### 校园网入侵检测可视化展示平台
 ![Figure](platform.jpg)
+![Demo](Demo.mp4)
 
 ## Publications
 
