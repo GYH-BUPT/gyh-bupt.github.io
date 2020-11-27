@@ -31,7 +31,7 @@
 >
 > 10、无线移动环境下信息安全监控
 
-### [校园网入侵检测可视化展示平台](https://www.bilibili.com/video/BV1xp4y1r7XY/)
+### 校园网入侵检测可视化展示平台 [Demo](https://www.bilibili.com/video/BV1xp4y1r7XY/)
 ![Figure](platform.jpg)
 
 ## Publications
