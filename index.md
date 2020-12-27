@@ -37,7 +37,7 @@
 ## Publications
 
 * Gu Y., Li L., Zhang Y. **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**. In: _Frontiers in Cyber Security(FCS)_, pp. 432-446, 2020. Communications in Computer and Information Science, vol 1286. Springer, Singapore. (**Best Student Paper**) **[Download](https://doi.org/10.1007/978-981-15-9739-8_33)**
-* Yonghao Gu, Kaiyue Li, Zhenyang Guo, Yongfei Wang. **Semi-supervised K-means DDoS Detection Method Using Hybrid Feature Selection Algorithm**. _IEEE ACCESS_, vol. 7, pp. 64351-64365, 2019. **[Download](https://doi.org/10.1109/ACCESS.2019.2917532)** **[Demo](https://www.bilibili.com/video/bv1fZ4y137p8)**
+* Yonghao Gu, Kaiyue Li, Zhenyang Guo, Yongfei Wang. **Semi-supervised K-means DDoS Detection Method Using Hybrid Feature Selection Algorithm**. _IEEE ACCESS_, vol. 7, pp. 64351-64365, 2019. **[Download](https://doi.org/10.1109/ACCESS.2019.2917532)** **[Demo](https://www.bilibili.com/video/bv1fZ4y137p8)** **[Code](https://github.com/GYH-BUPT/HGEMD_publish)**
 * Yonghao Gu, Yongfei Wang, Zhen Yang and Yimu Gao. **A Distributed Privacy-Utility Tradeoff Method Using Distributed Lossy Source Coding with Side Information**. _KSII Transactions on Internet and Information Systems_, vol. 11, no. 5, pp. 2778-2791, 2017.
 * Yonghao Gu, Yongfei Wang, Zhen Yang, Fei Xiong, and Yimu Gao, **Multiple-Features-Based Semisupervised Clustering DDoS Detection Method**, _Mathematical Problems in Engineering_, vol. 2017, Article ID 5202836, 10 pages, 2017. **[Download](https://doi.org/10.1155/2017/5202836)**
 *	Gu, Yong-Hao; Guo, Da; Lin, Jiu-Chuan. **Energy-saving privacy data secure aggregation method**. _Journal on Communications_. 2014, 35(Z2) : 112-116.
