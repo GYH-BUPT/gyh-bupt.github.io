@@ -31,6 +31,8 @@
 >
 > 10、网络安全知识图谱构建研究
 
+### Windows恶意软件检测展示平台 [Demo](https://b23.tv/cfJGSS)
+
 ### 校园网入侵检测可视化展示平台 [Demo](https://www.bilibili.com/video/BV1xp4y1r7XY/)
 ![Figure](platform.jpg)
 
