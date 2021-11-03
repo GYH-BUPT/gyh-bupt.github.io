@@ -42,7 +42,7 @@
 
 ## Publications
 * Gu Yonghao and Li Liangxun. **GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution**._CIKM 2021_.**[pdf](https://dl.acm.org/doi/10.1145/3459637.3482118)**
-* 谷勇浩，黄博琪，等. **基于半监督深度学习的木马流量检测方法**._计算机研究与发展_, 2021.
+* 谷勇浩，黄博琪，等. **基于半监督深度学习的木马流量检测方法**._计算机研究与发展_, 2021.**[pdf](https://kns.cnki.net/kcms/detail/11.1777.TP.20210909.1447.002.html)**
 * Gu Y., Li L., Zhang Y. **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**. In: _Frontiers in Cyber Security(FCS)_, pp. 432-446, 2020. Communications in Computer and Information Science, vol 1286. Springer, Singapore. (**Best Student Paper**) **[pdf](https://link.springer.com/content/pdf/10.1007%2F978-981-15-9739-8_33.pdf)** **[Code](https://github.com/GYH-BUPT/HGEMD_publish)**
 * Yonghao Gu, Kaiyue Li, Zhenyang Guo, Yongfei Wang. **Semi-supervised K-means DDoS Detection Method Using Hybrid Feature Selection Algorithm**. _IEEE ACCESS_, vol. 7, pp. 64351-64365, 2019. **[pdf](https://doi.org/10.1109/ACCESS.2019.2917532)** **[Demo](https://www.bilibili.com/video/bv1fZ4y137p8)**
 * Yonghao Gu, Yongfei Wang, Zhen Yang and Yimu Gao. **A Distributed Privacy-Utility Tradeoff Method Using Distributed Lossy Source Coding with Side Information**. _KSII Transactions on Internet and Information Systems_, vol. 11, no. 5, pp. 2778-2791, 2017.
