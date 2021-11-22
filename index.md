@@ -41,6 +41,7 @@
 ![Figure](platform.jpg)
 
 ## Publications
+* 谷勇浩，王翼翡，等. **基于多重异质图的恶意软件相似性度量方法**._软件学报_, 2021. accepted
 * Gu Yonghao and Li Liangxun. **GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution**._CIKM 2021_. **[pdf](https://dl.acm.org/doi/10.1145/3459637.3482118)** **[code](https://github.com/GYH-BUPT/GraphEvolveDroid)**
 * 谷勇浩，黄博琪，等. **基于半监督深度学习的木马流量检测方法**._计算机研究与发展_, 2021. **[pdf](https://kns.cnki.net/kcms/detail/11.1777.TP.20210909.1447.002.html)**
 * Gu Y., Li L., Zhang Y. **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**. In: _Frontiers in Cyber Security(FCS)_, pp. 432-446, 2020. Communications in Computer and Information Science, vol 1286. Springer, Singapore. (**Best Student Paper**) **[pdf](https://link.springer.com/content/pdf/10.1007%2F978-981-15-9739-8_33.pdf)** **[code](https://github.com/GYH-BUPT/HGEMD_publish)**
