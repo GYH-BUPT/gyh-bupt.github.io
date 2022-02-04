@@ -42,7 +42,7 @@
 
 ## Publications
 * Hang Zhang, Yonghao Gu, Xiaolin Chai and Peng Qi. **Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning**. _CSCWD 2022_. accepted
-* Zeqi Huang and Yonghao Gu. **One-Class Directed Heterogeneous Graph Neural Network for Intrusion Detection**. _ICIA I2022_. accepted
+* Zeqi Huang and Yonghao Gu. **One-Class Directed Heterogeneous Graph Neural Network for Intrusion Detection**. _ICIAI 2022_. accepted
 * 谷勇浩，王翼翡，等. **基于多重异质图的恶意软件相似性度量方法**. _软件学报_, 2022. **[pdf](http://www.jos.org.cn/jos/article/abstract/6538?bsh_bid=5671491964)**
 * Gu Yonghao and Li Liangxun. **GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution**. _CIKM 2021_. **[pdf](https://dl.acm.org/doi/10.1145/3459637.3482118)** **[code](https://github.com/GYH-BUPT/GraphEvolveDroid)**
 * 谷勇浩，黄博琪，等. **基于半监督深度学习的木马流量检测方法**._计算机研究与发展_, 2021. **[pdf](https://kns.cnki.net/kcms/detail/11.1777.TP.20210909.1447.002.html)**
