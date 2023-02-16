@@ -43,6 +43,7 @@
 ![Figure](platform.jpg)
 
 ## Publications
+* 谷勇浩，徐昊，张晓青. **基于多粒度表征学习的加密恶意流量检测**. *计算机学报*, 2023. **录用**
 * 张晓青，谷勇浩，田甜. **基于分层自编码器的异常网络流量检测**. 2022. **[pdf](https://www.cnki.com.cn/Article/CJFDTotal-ZXTX20220705000.htm)**
 * Hang Zhang, Yonghao Gu, Xiaolin Chai and Peng Qi. **Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning**. _CSCWD 2022_. **[pdf](https://ieeexplore.ieee.org/document/9776180)**
 * Zeqi Huang and Yonghao Gu. **One-Class Directed Heterogeneous Graph Neural Network for Intrusion Detection**. _ICIAI 2022_. **[pdf](https://doi.org/10.1145/3529466.3529480)**
