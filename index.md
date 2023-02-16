@@ -60,8 +60,8 @@
 * Gu Yonghao, Wu Weiming. **DDoS detection and prevention based on joint entropy and conditional entropy**. _Key Engineering Materials Vols_. 474-476 (2011) pp: 2129-2133.
 * Gu Yonghao. **A Quantifying Method for Trade-off between Privacy and Utility**. _IET International Conference on Information and Communications Technologies_. Apr. 27-29, 2013. pp:270-273.
 * Gu Yong-hao. **An Automatically Privacy Setting Algorithm based on Rasch Model**. _The Journal of China Universities of Posts and Telecommunications_. 2013, 20(S2) : 17-20.
-* 谷勇浩,林九川. **基于多变量信源编码的隐私效用均衡方法**._通信学报_,2015,36(12):172-177. （CCF B）
-* 谷勇浩,林九川,郭达. **基于聚类的动态社交网络隐私保护方法**._通信学报_,2015,36(Z1):126-130. （CCF B）
+* 谷勇浩,林九川. **基于多变量信源编码的隐私效用均衡方法**._通信学报_,2015,36(12):172-177.
+* 谷勇浩,林九川,郭达. **基于聚类的动态社交网络隐私保护方法**._通信学报_,2015,36(Z1):126-130. 
 
 ## Patents
 
