@@ -1,6 +1,3 @@
-<div align="center"> 
- <img src="https://profile-counter.glitch.me/gyh-bupt/count.svg" /> 
-</div> 
 ## Biography
 
 **谷勇浩**，毕业于北京邮电大学，工学博士。现为北京邮电大学计算机学院硕士生导师，CCF会员，全国研究生教育评估监测专家，中国互联网协会首批特聘青年专家，北京邮电大学“网络空间国际治理研究基地”成员。目前研究方向为：网络安全、数据科学与信息处理。主持参与国家级、省部级及企业资助的科研项目几十余项，包括：863项目，国家自然科学基金，国家242信息安全专项，发改委重大专项，工信部“十二五”前期预研课题，科技部重大专项，公安部重点实验室开放课题基金、工信部通信软课题研究、华为基金、中兴基金、CCF-绿盟鲲鹏基金、CCF-蚂蚁集团科研基金、IBM高校合作项目、阿里巴巴高校合作项目、中国通信标准化协会研究课题等。在IEEE等国内外学术期刊和学术会议上发表论文近百篇（CCF A/B、SCI/EI论文40多篇），申请专利20余项。 _**IEEE PIC**_、_**FCS2020**_、_**ICA3PP2021**_(CCF C) 等多个国际学术会议程序委员会委员和Session Chair， _**IEEE Transactions on Intelligent Transportation Systems**_(1区)、_**IEEE ACCESS**_、_**IEEE/ACM Transactions on Networking**_(CCF A)、_**Journal of Computer Science and Technology**_（2区/CCF B）、_**Security and Communication Networks**_(CCF C) 、_**International Journal of Distributed Sensor Networks**_、_**通信学报**_ 等多个高水平期刊和会议审稿人，《软件》杂志特邀编委。
@@ -101,3 +98,6 @@
 * 2021年，指导研究生获得DataCon2021大数据安全分析竞赛网络流量分析赛道优胜奖
 * 2022年，指导研究生获得北京邮电大学优秀硕士毕业论文（题目为：基于图表示学习的恶意软件相似性度量方法研究与实现）
 * 2023年，CCF-蚂蚁集团科研基金项目《基于通信行为建模的加密恶意流量检测技术》，被评为“蚂蚁集团优秀学术合作项目”
+<div align="center"> 
+ <img src="https://profile-counter.glitch.me/gyh-bupt/count.svg" /> 
+</div> 
