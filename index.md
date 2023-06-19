@@ -1,14 +1,12 @@
-## Biography
-
 **谷勇浩**，毕业于北京邮电大学，工学博士。现为北京邮电大学计算机学院硕士生导师，CCF会员，全国研究生教育评估监测专家，中国互联网协会首批特聘青年专家，北京邮电大学“网络空间国际治理研究基地”成员。目前研究方向为：网络安全、数据科学与信息处理。主持参与国家级、省部级及企业资助的科研项目几十余项，包括：863项目，国家自然科学基金，国家242信息安全专项，发改委重大专项，工信部“十二五”前期预研课题，科技部重大专项，公安部重点实验室开放课题基金、工信部通信软课题研究、华为基金、中兴基金、CCF-绿盟鲲鹏基金、CCF-蚂蚁集团科研基金、IBM高校合作项目、阿里巴巴高校合作项目、中国通信标准化协会研究课题等。在IEEE等国内外学术期刊和学术会议上发表论文近百篇（CCF A/B、SCI/EI论文40多篇），申请专利20余项。 _**IEEE PIC**_、_**FCS2020**_、_**ICA3PP2021**_(CCF C) 等多个国际学术会议程序委员会委员和Session Chair， _**IEEE Transactions on Intelligent Transportation Systems**_(1区)、_**IEEE ACCESS**_、_**IEEE/ACM Transactions on Networking**_(CCF A)、_**Journal of Computer Science and Technology**_（2区/CCF B）、_**Security and Communication Networks**_(CCF C) 、_**International Journal of Distributed Sensor Networks**_、_**通信学报**_ 等多个高水平期刊和会议审稿人，《软件》杂志特邀编委。
 
 #### [官方主页](https://teacher.bupt.edu.cn/guyonghao) [ResearchGate主页](https://www.researchgate.net/profile/Yh_Gu)
 
-## Teaching
+## 讲授课程
 
 大学计算机基础、Java高级语言程序设计、C语言课程设计、人工智能与科研写作
 
-## Projects
+## 科研项目
 
 **主要研究内容**：针对网络空间安全中攻击行为检测难、溯源难和攻击样本标记困难等问题，利用攻击者在通信网络流量和终端日志中留下的异常行为数据，采用数据挖掘、机器学习和深度学习等大数据分析手段和建模方式，实现攻击行为的精准检测；同时，针对传统机器学习用于网络安全检测过程中存在模型老化、可解释性差以及易受对抗样本攻击等问题，从图表示学习、图挖掘、知识图谱、统计学、因果推理等多方面开展研究。
 
@@ -41,7 +39,7 @@
 ### 校园网入侵检测可视化展示平台 [Demo](https://www.bilibili.com/video/BV1xp4y1r7XY/)
 ![Figure](platform.jpg)
 
-## Publications
+## 学术论文
 * 谷勇浩，徐昊，张晓青. **基于多粒度表征学习的加密恶意流量检测**. *计算机学报*, 2023. **[pdf](https://kns.cnki.net/kcms/detail/11.1826.tp.20230421.1719.020.html)**
 * 张晓青，谷勇浩，田甜. **基于分层自编码器的异常网络流量检测**. 2022. **[pdf](https://www.cnki.com.cn/Article/CJFDTotal-ZXTX20220705000.htm)**
 * Hang Zhang, Yonghao Gu, Xiaolin Chai and Peng Qi. **Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning**. _CSCWD 2022_. **[pdf](https://ieeexplore.ieee.org/document/9776180)**
@@ -62,7 +60,7 @@
 * 谷勇浩,林九川. **基于多变量信源编码的隐私效用均衡方法**._通信学报_,2015,36(12):172-177.
 * 谷勇浩,林九川,郭达. **基于聚类的动态社交网络隐私保护方法**._通信学报_,2015,36(Z1):126-130. 
 
-## Patents
+## 专利
 
 * 隐私数据自动设置方法和装置。专利号：ZL 201310413660.8
 * 低能耗的安全数据融合方法和装置。专利号：ZL 201310413722.5
@@ -81,7 +79,7 @@
 * 流量预测方法、装置以及存储介质。申请号：201911359122.9
 * 一种无监督的主机入侵检测方法及系统。申请号202210249400.0
 
-## Awards
+## 获奖
 
 * 2010年，获工信部通信业“十二五”规划前期课题优秀成果奖
 * 2018年，获得北京邮电大学大学生创新创业竞赛优秀指导教师
