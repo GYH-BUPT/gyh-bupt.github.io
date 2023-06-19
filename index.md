@@ -1,4 +1,3 @@
-![Counter](https://visitor-badge.glitch.me/badge?page_id=gyh-bupt)
 <div align="center"> 
  <img src="https://profile-counter.glitch.me/gyh-bupt/count.svg" /> 
 </div> 
