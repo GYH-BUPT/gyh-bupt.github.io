@@ -32,7 +32,7 @@
 > 
 > 11、知识驱动的安全事件信息推理和溯源技术研究
 
-### Windows恶意软件检测展示平台 [Demo](https://b23.tv/cfJGSS)
+### Windows恶意软件检测展示平台 [Demo](https://www.bilibili.com/video/BV1q64y1k7gx)
 
 ### 加密恶意流量检测展示平台 [Demo](https://www.bilibili.com/video/BV1ot4y1N71x/)
 
