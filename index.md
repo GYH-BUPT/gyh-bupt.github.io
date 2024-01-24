@@ -99,6 +99,4 @@
 * 2022年，《基于异质图的恶意软件相似性度量及家族聚类技术研究》，被广东省信息安全技术重点实验室评为优秀项目
 * 2023年，CCF-蚂蚁集团科研基金项目《基于通信行为建模的加密恶意流量检测技术》，被评为“蚂蚁集团优秀学术合作项目”
 * 2023年，指导研究生获得北京邮电大学优秀硕士毕业论文（题目为：加密恶意流量检测方法的研究与实现）
-<div align="center"> 
- <img src="https://profile-counter.glitch.me/gyh-bupt/count.svg" /> 
-</div> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyh-bupt&label=Profile%20views&color=ce9927&style=flat" alt="gyh-bupt" /> </p>
