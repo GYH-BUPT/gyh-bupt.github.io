@@ -42,7 +42,7 @@
 ## 学术论文
 * 谷勇浩，徐昊，张晓青. **基于多粒度表征学习的加密恶意流量检测**. *计算机学报*, 2023,46(9):1888-1899. **[pdf](https://kns.cnki.net/kcms/detail/11.1826.tp.20230421.1719.020.html)** **[code](https://github.com/GYH-BUPT/MGREL)**
 * 张晓青，谷勇浩，田甜. **基于分层自编码器的异常网络流量检测**. 2022. **[pdf](https://www.cnki.com.cn/Article/CJFDTotal-ZXTX20220705000.htm)** **[code](https://github.com/GYH-BUPT/HAE)**
-* Hang Zhang, Yonghao Gu, Xiaolin Chai, and Peng Qi. **Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning**. _CSCWD 2022_. **[pdf](https://ieeexplore.ieee.org/document/9776180)**
+* Hang Zhang, Yonghao Gu, Xiaolin Chai, and Peng Qi. **Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning**. _CSCWD 2022_. **[pdf](https://ieeexplore.ieee.org/document/9776180)** **[code](https://github.com/GYH-BUPT/BiGAN-for-Host-Behavior-Anomaly-Detection)**
 * Zeqi Huang and Yonghao Gu. **One-Class Directed Heterogeneous Graph Neural Network for Intrusion Detection**. _ICIAI 2022_. **[pdf](https://doi.org/10.1145/3529466.3529480)**
 * 谷勇浩，王翼翡，等. **基于多重异质图的恶意软件相似性度量方法**. _软件学报_, 2023,34(7):3188-3205. **[pdf](http://www.jos.org.cn/jos/article/abstract/6538?bsh_bid=5671491964)** **[code](https://github.com/GYH-BUPT/RG-MHPE)**
 * Gu Yonghao and Li Liangxun. **GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution**. _CIKM 2021_. **[pdf](https://dl.acm.org/doi/10.1145/3459637.3482118)** **[code](https://github.com/GYH-BUPT/GraphEvolveDroid)**
