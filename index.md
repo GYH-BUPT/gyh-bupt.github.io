@@ -1,4 +1,4 @@
-**谷勇浩**，毕业于北京邮电大学，工学博士。现为北京邮电大学计算机学院硕士生导师，CCF会员，全国研究生教育评估监测专家，中国互联网协会首批特聘青年专家，北京邮电大学“网络空间国际治理研究基地”成员。目前研究方向为：网络安全、数据科学与信息处理。主持参与国家级、省部级及企业资助的科研项目几十余项，包括：863项目，国家自然科学基金，国家242信息安全专项，发改委重大专项，工信部“十二五”前期预研课题，科技部重大专项，公安部重点实验室开放课题基金、工信部通信软课题研究、华为基金、中兴基金、CCF-绿盟鲲鹏基金、CCF-蚂蚁集团科研基金、IBM高校合作项目、阿里巴巴高校合作项目、工信部标准研究项目等。在IEEE等国内外学术期刊和学术会议上发表论文近百篇（CCF A/B、SCI/EI论文40多篇），申请专利20余项。 _**IEEE PIC**_、_**FCS2020**_、_**ICA3PP2021**_(CCF C) 等多个国际学术会议程序委员会委员和Session Chair， _**IEEE Transactions on Intelligent Transportation Systems**_(1区)、_**IEEE ACCESS**_、_**IEEE/ACM Transactions on Networking**_(CCF A)、_**Journal of Computer Science and Technology**_（2区/CCF B）、_**Security and Communication Networks**_(CCF C) 、_**International Journal of Distributed Sensor Networks**_、_**通信学报**_ 等多个高水平期刊和会议审稿人，《软件》杂志特邀编委。
+![image](https://github.com/GYH-BUPT/gyh-bupt.github.io/assets/61369679/d29dd8ad-566b-4cec-8c29-51826f2da779)**谷勇浩**，毕业于北京邮电大学，工学博士。现为北京邮电大学计算机学院硕士生导师，CCF会员，全国研究生教育评估监测专家，中国互联网协会首批特聘青年专家，北京邮电大学“网络空间国际治理研究基地”成员。目前研究方向为：网络安全、数据科学与信息处理。主持参与国家级、省部级及企业资助的科研项目几十余项，包括：863项目，国家自然科学基金，国家242信息安全专项，发改委重大专项，工信部“十二五”前期预研课题，科技部重大专项，公安部重点实验室开放课题基金、工信部通信软课题研究、华为基金、中兴基金、CCF-绿盟鲲鹏基金、CCF-蚂蚁集团科研基金、IBM高校合作项目、阿里巴巴高校合作项目、工信部标准研究项目等。在IEEE等国内外学术期刊和学术会议上发表论文近百篇（CCF A/B、SCI/EI论文40多篇），申请专利20余项。 _**IEEE PIC**_、_**FCS2020**_、_**ICA3PP2021**_(CCF C) 等多个国际学术会议程序委员会委员和Session Chair， _**IEEE Transactions on Intelligent Transportation Systems**_(1区)、_**IEEE ACCESS**_、_**IEEE/ACM Transactions on Networking**_(CCF A)、_**Journal of Computer Science and Technology**_（2区/CCF B）、_**Security and Communication Networks**_(CCF C) 、_**International Journal of Distributed Sensor Networks**_、_**通信学报**_ 等多个高水平期刊和会议审稿人，《软件》杂志特邀编委。
 
 #### [官方主页](https://teacher.bupt.edu.cn/guyonghao) [ResearchGate主页](https://www.researchgate.net/profile/Yh_Gu)
 
@@ -84,6 +84,9 @@
 
 * YD/T 4587-2023 网络空间安全仿真 术语
 * YD/T 4589-2023 网络空间安全仿真 网络安全知识获取系统的功能要求
+* YD/T 4594-2023 网络空间安全仿真 试验环境隔离要求
+* YD/T 4595-2023 网络空间安全仿真 网络安全试验知识的统一表示与接口要求
+* YD/T 4597-2023 网络空间安全仿真 无人机系统信息安全仿真平台接入技术要求
 
 ## 获奖
 
