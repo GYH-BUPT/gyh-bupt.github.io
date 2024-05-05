@@ -34,6 +34,8 @@
 
 ### Windows恶意软件检测展示平台 [Demo](https://www.bilibili.com/video/BV1q64y1k7gx)
 
+### 隐匿场景下异常流量检测分析展示平台[Demo](https://www.bilibili.com/video/BV11w4m1C7uu)
+
 ### 加密恶意流量检测展示平台 [Demo](https://www.bilibili.com/video/BV1ot4y1N71x/)
 
 ### 校园网入侵检测可视化展示平台 [Demo](https://www.bilibili.com/video/BV1xp4y1r7XY/)
