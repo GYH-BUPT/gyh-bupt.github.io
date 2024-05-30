@@ -38,6 +38,8 @@
 
 ### 加密恶意流量检测展示平台 [Demo](https://www.bilibili.com/video/BV1ot4y1N71x/)
 
+### 智网慧眼——基于AI的物联网异常流量智能检测平台 [Demo](https://www.bilibili.com/video/BV1KuTNepEnt/)
+
 ### 校园网入侵检测可视化展示平台 [Demo](https://www.bilibili.com/video/BV1xp4y1r7XY/)
 ![Figure](platform.jpg)
 
