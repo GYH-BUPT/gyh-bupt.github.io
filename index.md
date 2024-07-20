@@ -1,4 +1,6 @@
+<div style="text-align: justify;">
 谷勇浩，毕业于北京邮电大学，工学博士。现为北京邮电大学计算机学院硕士生导师，CCF会员，全国研究生教育评估监测专家，中国互联网协会首批特聘青年专家，北京邮电大学“网络空间国际治理研究基地”成员。目前研究方向为：网络安全、数据科学与信息处理。主持参与国家级、省部级及企业资助的科研项目几十余项，包括：863项目，国家自然科学基金，国家242信息安全专项，发改委重大专项，工信部“十二五”前期预研课题，科技部重大专项，公安部重点实验室开放课题基金、工信部通信软课题研究、华为基金、中兴基金、CCF-绿盟鲲鹏基金、CCF-蚂蚁集团科研基金、IBM高校合作项目、阿里巴巴高校合作项目、工信部标准研究项目等。在IEEE等国内外学术期刊和学术会议上发表论文近百篇（CCF A/B、SCI/EI论文40多篇），申请专利20余项。IEEE PIC、FCS2020、ICA3PP2021(CCF C)等多个国际学术会议程序委员会委员和Session Chair，IEEE Transactions on Intelligent Transportation Systems(1区)、IEEE ACCESS、IEEE/ACM Transactions on Networking(CCF A)、Journal of Computer Science and Technology（2区/CCF B）、Security and Communication Networks(CCF C)、International Journal of Distributed Sensor Networks、通信学报等多个高水平期刊和会议审稿人，《软件》杂志特邀编委。
+</div>
 
 #### [官方主页](https://teacher.bupt.edu.cn/guyonghao) [ResearchGate主页](https://www.researchgate.net/profile/Yh_Gu)
 
