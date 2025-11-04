@@ -52,7 +52,7 @@
 ![Figure](platform.jpg)
 
 ## 学术论文
-* 陈永威，谷勇浩，谢玉奇，等. **基于异质图匹配网络的恶意软件相似性度量方法**. _软件学报_, 2025.
+* 陈永威，谷勇浩，谢玉奇，等. **基于异质图匹配网络的恶意软件相似性度量方法**. _软件学报_, 2025.**[pdf](https://doi.org/10.13328/j.cnki.jos.007487)**
 * Yonghao Gu, Xiaoqing Zhang, Hao Xu. **DyGCN: Dynamic Graph Convolution Network-based Anomaly Network Traffic Detection**. _TrustCom 2024_. **[pdf](https://ieeexplore.ieee.org/document/10944959)**
 * 谷勇浩，徐昊，张晓青. **基于多粒度表征学习的加密恶意流量检测**. _计算机学报_, 2023,46(9):1888-1899. **[pdf](https://kns.cnki.net/kcms/detail/11.1826.tp.20230421.1719.020.html)** **[code](https://github.com/GYH-BUPT/MGREL)**
 * 张晓青，谷勇浩，田甜. **基于分层自编码器的异常网络流量检测**. _中兴通讯技术_, 2024,30(05):81-86. **[pdf](https://kns.cnki.net/kcms2/article/abstract?v=4OORb77KhuJ7JOhXBgjQFwYdihihnekcfLN4ncPN5kHKKD9yyIt2BeX4GpL4im9dx126CV3ozTA7uHhmRLrnsdyvHuHpmtQct4SFtqFmr1c6vhW54yBFXe-UXnB7GBGRZcwDluxU58vXcCPj6OZuB1TFV8XKiz6XRCkMikQjPAavYe4dCGwGQQ==&uniplatform=NZKPT&language=CHS)** **[code](https://github.com/GYH-BUPT/HAE)**
