@@ -52,6 +52,7 @@
 ![Figure](platform.jpg)
 
 ## 学术论文
+* 巩晶源，谷勇浩. **基于双流Mamba编码和两阶段融合的多数据源入侵检测方法**. 2025.
 * 陈永威，谷勇浩，谢玉奇，等. **基于异质图匹配网络的恶意软件相似性度量方法**. _软件学报_, 2025.**[pdf](https://doi.org/10.13328/j.cnki.jos.007487)**
 * Yonghao Gu, Xiaoqing Zhang, Hao Xu. **DyGCN: Dynamic Graph Convolution Network-based Anomaly Network Traffic Detection**. _TrustCom 2024_. **[pdf](https://ieeexplore.ieee.org/document/10944959)**
 * 谷勇浩，徐昊，张晓青. **基于多粒度表征学习的加密恶意流量检测**. _计算机学报_, 2023,46(9):1888-1899. **[pdf](https://kns.cnki.net/kcms/detail/11.1826.tp.20230421.1719.020.html)** **[code](https://github.com/GYH-BUPT/MGREL)**
