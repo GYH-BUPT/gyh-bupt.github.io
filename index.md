@@ -54,7 +54,7 @@
 ## 学术论文
 * 陈永威，谷勇浩，谢玉奇，等. **基于异质图匹配网络的恶意软件相似性度量方法**. _软件学报_, 2026,37(6):2510−2526.**[pdf](https://doi.org/10.13328/j.cnki.jos.007487)**
 * 巩晶源，谷勇浩. **基于双流Mamba编码和两阶段融合的多数据源入侵检测方法**. 2025.
-* Yonghao Gu, Xiaoqing Zhang, Hao Xu. **DyGCN: Dynamic Graph Convolution Network-based Anomaly Network Traffic Detection**. _TrustCom 2024_. **[pdf](https://ieeexplore.ieee.org/document/10944959)**
+* Gu Y, Zhang X, Xu H, et al. **DyGCN: Dynamic Graph Convolution Network-based Anomaly Network Traffic Detection**. _2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)_. 2024:1838-1843. **[pdf](https://ieeexplore.ieee.org/document/10944959)**
 * 谷勇浩，徐昊，张晓青. **基于多粒度表征学习的加密恶意流量检测**. _计算机学报_, 2023,46(9):1888-1899. **[pdf](https://kns.cnki.net/kcms/detail/11.1826.tp.20230421.1719.020.html)** **[code](https://github.com/GYH-BUPT/MGREL)**
 * 张晓青，谷勇浩，田甜. **基于分层自编码器的异常网络流量检测**. _中兴通讯技术_, 2024,30(05):81-86. **[pdf](https://kns.cnki.net/kcms2/article/abstract?v=4OORb77KhuJ7JOhXBgjQFwYdihihnekcfLN4ncPN5kHKKD9yyIt2BeX4GpL4im9dx126CV3ozTA7uHhmRLrnsdyvHuHpmtQct4SFtqFmr1c6vhW54yBFXe-UXnB7GBGRZcwDluxU58vXcCPj6OZuB1TFV8XKiz6XRCkMikQjPAavYe4dCGwGQQ==&uniplatform=NZKPT&language=CHS)** **[code](https://github.com/GYH-BUPT/HAE)**
 * Hang Zhang, Yonghao Gu, Xiaolin Chai, and Peng Qi. **Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning**. _CSCWD 2022_. **[pdf](https://ieeexplore.ieee.org/document/9776180)** **[code](https://github.com/GYH-BUPT/BiGAN-for-Host-Behavior-Anomaly-Detection)**
